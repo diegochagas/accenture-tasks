@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@accenture.com",
+      "photo": "assets/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@accenture.com",
+      "photo": "assets/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adam Doe",
+      "email": "adam.doe@accenture.com",
+      "photo": "assets/avatar3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mountain Doe",
+      "email": "mountain.doe@accenture.com",
+      "photo": "assets/avatar4.jpg"
+    }
+  ]
+}
