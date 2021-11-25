@@ -1,5 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 
+import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+
 export default createGlobalStyle`
  * {
     margin: 0;

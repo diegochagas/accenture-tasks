@@ -10,7 +10,7 @@ export default function RoutesComponent() {
     <Routes>
       <Route path="/" exact element={<ProfileListingPage />} />
       <Route path="/profile-listing-page" element={<ProfileListingPage />} />
-      <Route path="/profile-page" element={<ProfilePage />} />
+      <Route path="/profile-page/:id" element={<ProfilePage />} />
     </Routes>
   )
 }

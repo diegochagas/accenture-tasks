@@ -4,25 +4,29 @@
       "id": 1,
       "name": "John Doe",
       "email": "john.doe@accenture.com",
-      "photo": "assets/avatar1.jpg"
+      "avatar": "assets/avatar1.jpg",
+      "details": "Lots and lots of more details..."
     },
     {
       "id": 2,
       "name": "Jane Doe",
       "email": "jane.doe@accenture.com",
-      "photo": "assets/avatar2.jpg"
+      "avatar": "assets/avatar2.jpg",
+      "details": "Lots and lots of more details..."
     },
     {
       "id": 3,
       "name": "Adam Doe",
       "email": "adam.doe@accenture.com",
-      "photo": "assets/avatar3.jpg"
+      "avatar": "assets/avatar3.jpg",
+      "details": "Lots and lots of more details..."
     },
     {
       "id": 4,
       "name": "Mountain Doe",
       "email": "mountain.doe@accenture.com",
-      "photo": "assets/avatar4.jpg"
+      "avatar": "assets/avatar4.jpg",
+      "details": "Lots and lots of more details..."
     }
   ]
 }
