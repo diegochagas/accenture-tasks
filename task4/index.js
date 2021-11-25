@@ -34,13 +34,21 @@ async function getOutputOfArray(data, index) {
         response = { title: 'Error page', message: null };
       }
 
-      console.log(response);
-
+      console.log(`
+        ============================================================
+        Status: ${current.state} - Response: ${JSON.stringify(response)}
+        ============================================================
+      `);
+        
       return response;
     case 'success':
       response = { title: 'Order complete', message: null };
-
-      console.log(response);
+        
+      console.log(`
+        ============================================================
+        Status: ${current.state} - Response: ${JSON.stringify(response)}
+        ============================================================
+      `);
       
       return response;
     default:
